@@ -7,7 +7,7 @@ This project allows a business analysis of AirBnB listings of San Franciso from 
 3) How does availability and price vary with neighborhood?
 My blog post on medium summarises the insights for a non-techinical audience.
 
-This is a a part of Udacity Data Scientist Nanodegree course.
+This is a part of Udacity Data Scientist Nanodegree course.
 # Files
 San Francisco Airbnb.ipynb - it contains the code and graphs for the analysis
 1.calendar.csv - it is a zipped file containing the day wise availability 
@@ -18,7 +18,7 @@ pandas,numpy,seaborn,calendar and matplotlib.pyplot
 # Acknowledgements
 Some of the resources which were useful for the analysis and inspiration were:
 1. Inside AirBnB which provided the labelled dataset
-2. Josh Bernhard's article on medium https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7
+2. Josh Bernhard's [article](https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7) on medium 
 3. Udacity Nanodegree for the project inspiration
 # Future work
 1. These findings can be used for a comparative analysis with other nearby cities like Los Angeles.
