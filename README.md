@@ -5,16 +5,20 @@ This project allows a business analysis of AirBnB listings of San Franciso from 
 1) What are the busiest months in San Francisco and the price variations of the same?
 2) How does availbality and price differ with type of room?
 3) How does availability and price vary with neighborhood?
-My blog post on medium summarises the insights for a non-techinical audience.
+My [blog post](https://medium.com/@rlulua/3-insights-into-airbnb-in-san-francisco-38913347cf4c) on medium summarises the insights for a non-techinical audience.
 
 This is a part of Udacity Data Scientist Nanodegree course.
 # Files
 San Francisco Airbnb.ipynb - it contains the code and graphs for the analysis
-1.calendar.csv - it is a zipped file containing the day wise availability 
-2.reviews.csv - it is a summary version of reviews containing only the date, listing id and reviewer id.
-3.listings.csv - it is a summary version of listings containing host id, listing id, neighborhood, availability etc.
+1) calendar.csv - it is a zipped file containing the day wise availability 
+2) reviews.csv - it is a summary version of reviews containing only the date, listing id and reviewer id.
+3) listings.csv - it is a summary version of listings containing host id, listing id, neighborhood, availability etc.
 # Libraries used
 pandas,numpy,seaborn,calendar and matplotlib.pyplot
+# Summary of results
+1) The busiest months are August,September and October which is Fall season in the city characterized by warm, pleasant climates. Price is generally higher than average in those months with sharp dips from December to February which are generally very cold.
+2) Shared rooms have the highest availability and lowest price. 
+3) The neighborhoods have different availability and prices. The high listing neighborhoods seem to be in close proximity with each other. However, no proper correlation is seen between the price and availability.
 # Acknowledgements
 Some of the resources which were useful for the analysis and inspiration were:
 1. Inside AirBnB which provided the labelled dataset
