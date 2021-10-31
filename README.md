@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 # San-Francisco-AirBnB-Analysis
 Analysis of AirBnB listings of San Francisco for 2019-2020
 # Motivation
